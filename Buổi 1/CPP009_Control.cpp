@@ -43,6 +43,10 @@ int main()
     {
     }
     */
+    /*
+
+    multiple lines comments
+    */
     for (int i = 9; i >= 0; i = i - 1)
     {
         cout << i;
@@ -88,7 +92,7 @@ int main()
     }
     // khi code thường cho while (1) để khỏi xác định điều kiện dừng ở đầu vòng while, mình sẽ xác định
     // điều kiện dừng ở trong vòng
-    while (1)
+    while (true)
     {
         temp = temp - subtract;
         subtract++;

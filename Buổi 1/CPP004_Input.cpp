@@ -44,6 +44,8 @@ int main()
     */
     // Ví dụ nhập số int
     scanf("%d", &a); // lưu ý phải có kí hiệu địa chỉ &
+    int b, c;
+    scanf("%d%d%d", &a, &b, &c);
     /*
     ***** Output ********
     Dùng lệnh printf("kí hiệu", biến)
