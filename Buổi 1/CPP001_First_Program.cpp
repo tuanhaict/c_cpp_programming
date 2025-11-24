@@ -20,3 +20,10 @@ int main()
 //     cout << "Hello World !";
 //     std::cout << "Hello World!"; // nếu ko sử dụng ko gian tên
 // }
+
+#include <stdio.h>
+int main()
+{
+    printf("Hello World !");
+    return 0;
+}

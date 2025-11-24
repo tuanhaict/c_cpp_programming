@@ -19,6 +19,7 @@ int main()
 
     // Re-initialization of A.
     A = 10;
+    int abc_de23_cdf = 20;
     cout << A << endl;
     cout << &A;
     return 0;
